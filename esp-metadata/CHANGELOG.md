@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Add module data to esp-metadata-generated
+- Add module data to esp-metadata-generated (#4789)
 - Clock tree modeling (#4501)
 
 ### Changed
